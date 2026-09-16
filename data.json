@@ -1,0 +1,16 @@
+{
+  "syntheticResearch": true,
+  "researchDescription": "Controlled synthetic Git contribution research",
+  "experienceScenario": "Developer with approximately one year of experience",
+  "year": 2021,
+  "month": "12",
+  "monthName": "December",
+  "batch": "12",
+  "sequence": 35,
+  "monthlyTarget": 35,
+  "totalPlannedCommits": 480,
+  "activityType": "learning-task",
+  "weekendActivity": false,
+  "dayName": "Friday",
+  "syntheticTimestamp": "2021-12-31T11:09:28+05:00"
+}
